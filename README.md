@@ -1,0 +1,1 @@
+[![codecov](https://codecov.io/gh/tigbox/cook/branch/main/graph/badge.svg?token=1KTRNAGE2C)](https://codecov.io/gh/tigbox/cook)
