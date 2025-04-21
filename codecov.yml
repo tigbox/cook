@@ -1,4 +1,5 @@
 - name: Upload coverage reports to Codecov
     uses: codecov/codecov-action@v5
     with:
-      token: fa71e27d-51d3-46ca-80ee-2eaa7ea4c539
+      token: ${{ secrets.CODECOV_TOKEN }}
+      slug: tigbox/cook
