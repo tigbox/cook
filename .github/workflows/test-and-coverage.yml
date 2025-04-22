@@ -1,5 +1,5 @@
+# 当git push的时候会触发进行go test并上传coverage.txt文件到codecov第三方平台
 name: Run tests and upload coverage
-
 on: 
   push
 
